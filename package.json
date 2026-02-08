@@ -1,11 +1,11 @@
 {
     "name": "@siredvin/typed-peripheral-cloudsolutions",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "Typed peripheral library for Cloud Solutions peripherals",
     "files": [
-        "./*.ts",
+        "./*.d.ts",
         "./*.lua",
-        "./**/*.ts",
+        "./**/*.d.ts",
         "./**/*.lua"
     ],
     "publishConfig": {
